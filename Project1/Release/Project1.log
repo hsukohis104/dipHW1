@@ -1,0 +1,17 @@
+﻿  MyForm.cpp
+C:\Users\cial7\Desktop\Project1\Project1\MyForm.h(462,14): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\cial7\Desktop\Project1\Project1\MyForm.h(498,13): warning C4244: '正在初始化': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\cial7\Desktop\Project1\Project1\MyForm.h(652,68): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\cial7\Desktop\Project1\Project1\MyForm.h(652,58): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\cial7\Desktop\Project1\Project1\MyForm.h(652,48): warning C4244: '引數': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\cial7\Desktop\Project1\Project1\MyForm.h(761,18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\cial7\Desktop\Project1\Project1\MyForm.h(762,18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\cial7\Desktop\Project1\Project1\MyForm.h(770,18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\cial7\Desktop\Project1\Project1\MyForm.h(854,18): warning C4244: '=': 將 'double' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\cial7\Desktop\Project1\Project1\MyForm.h(917,12): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\cial7\Desktop\Project1\Project1\MyForm.h(917,32): warning C4244: '=': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\cial7\Desktop\Project1\Project1\MyForm.h(919,26): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+C:\Users\cial7\Desktop\Project1\Project1\MyForm.h(958,17): warning C4244: '=': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\cial7\Desktop\Project1\Project1\MyForm.h(991,12): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+C:\Users\cial7\Desktop\Project1\Project1\MyForm.h(993,12): warning C4244: '正在初始化': 將 'double' 轉換為 'float'，由於類型不同，可能導致資料遺失
+  Project1.vcxproj -> C:\Users\cial7\Desktop\Project1\Release\Project1.exe
